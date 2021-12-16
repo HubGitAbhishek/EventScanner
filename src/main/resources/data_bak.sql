@@ -1,0 +1,1 @@
+INSERT INTO EVENTS (id, duration, type, host, alert)  VALUES ( 'scsmbstgrzzz' , 3, 'APPLICATION_LOG', '12344', false);
